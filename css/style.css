@@ -1,0 +1,35 @@
+html {
+  font-family:"Workbench", serif;
+}
+
+p {
+  font-family: "Pacifico", serif;
+}
+
+
+#primeiro {
+  height: 200px;
+  width:200px;
+  background-color: #836FFF;
+  display: inline-block;
+}
+
+#segundo {
+  height: 200px;
+  width:200px;
+  background-color: #0000FF;
+  display: inline-block;
+}
+
+#branco {
+  height: 200px;
+  width:200px;
+}
+
+#terceiro {
+  height: 200px;
+  width:200px;
+  background-color: #00FA9A;
+  display: inline-block;
+}
+
